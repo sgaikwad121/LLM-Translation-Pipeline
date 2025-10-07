@@ -1,0 +1,45 @@
+source_term,target_term,lang,notes,tag
+Shivaji,Shivaji,it,Name of the Person,DNT
+Shivaji,Shivaji,fr,Name of the Person,DNT
+Shivaji,Shivaji,jp,人の名前,DNT
+THEBIGWORD,THEBIGWORD,it,Name of the Company,DNT
+THEBIGWORD,THEBIGWORD,fr,Name of the Company,DNT
+THEBIGWORD,THEBIGWORD,jp,会社名,DNT
+TBW,TBW,fr,Name of the company in short form,DNT
+TBW,TBW,it,Name of the company in short form,DNT
+TBW,TBW,jp,会社の略称,DNT
+localization engineer,ingénieur en localisation,fr,role responsible for adapting content for languages,role
+localization engineer,ローカリゼーションエンジニア,jp,role responsible for adapting content for languages,role
+localization engineer,ingegnere della localizzazione,it,role responsible for adapting content for languages,role
+translation kit,kit de traduction,fr,a package of files prepared for translation,tool
+translation kit,翻訳キット,jp,a package of files prepared for translation,tool
+translation kit,set di traduzione,it,a package of files prepared for translation,tool
+multimedia localization,localisation multimédia,fr,adapting multimedia content for target languages,process
+multimedia localization,マルチメディアローカリゼーション,jp,adapting multimedia content for target languages,process
+multimedia localization,localizzazione multimediale,it,adapting multimedia content for target languages,process
+parser,analyseur,fr,program that processes text or data,tool
+parser,パーサー,jp,program that processes text or data,tool
+parser,parser,it,program that processes text or data,tool
+CAT tool,outil TAO,fr,computer-added translation software,tool
+CAT tool,CATツール,jp,computer-added translation software,tool
+CAT tool,strumento CAT,it,computer-added translation software,tool
+hybrid model,modèle hybride,fr,combining in-house and vendor-based delivery,process
+hybrid model,modello ibrido,it,combining in-house and vendor-based delivery,process
+hybrid model,ハイブリッドモデル,jp,combining in-house and vendor-based delivery,process
+WCAG-compliant,conforme WCAG,fr,meeting Web Content Accessibility Guidelines,standard
+WCAG-compliant,conforme WCAG,it,meeting Web Content Accessibility Guidelines,standard
+WCAG-compliant,WCAG準拠,jp,meeting Web Content Accessibility Guidelines,standard
+Easy Read,簡易読書,jp,simple language content for accessibility,process
+Easy Read,lettura facile,it,simple language content for accessibility,process
+Easy Read,lecture facile,fr,simple language content for accessibility,process
+vendor strategy,stratégie fournisseur,fr,planning and management of third-party translation,strategy
+vendor strategy,strategia fornitore,it,planning and management of third-party translation,strategy
+vendor strategy,ベンダー戦略,jp,planning and management of third-party translation,strategy
+KPI,indicateur clé de performance,fr,measurable values to track performance,metric
+KPI,KPI,jp,measurable values to track performance,metric
+KPI,indicatore chiave di prestazione,it,measurable values to track performance,metric
+toolchain,chaîne d’outils,fr,set of tools used for a process,process
+toolchain,ツールチェーン,jp,set of tools used for a process,process
+toolchain,catena di strumenti,it,set of tools used for a process,process
+
+
