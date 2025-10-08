@@ -8,7 +8,7 @@ I have created a short video explaining the goals and final results of this case
 
 
 
-🔗 Watch the Demo Video (https://www.loom.com/share/bf4276d232884beb8c33558b099f58ba?sid=0cd85e90-ae5e-4d82-8809-1cd2f11caedf)
+🔗 Watch the Demo Video (https://www.loom.com/share/3263d71fd03a4b948adcdf153d9ae596?sid=d8440e86-b949-4abd-bd35-8d2cf644e348)
 
 
 
